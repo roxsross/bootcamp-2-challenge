@@ -87,6 +87,10 @@ Entregable:
 
 - Pasos para subir tareas en classroom [pasos](https://support.google.com/edu/classroom/answer/6020285?hl=es&co=GENIE.Platform%3DDesktop) 
 
+- Hay algunos retos que tienes que armar la documentación te recomiendo usar [markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Sube la url del repositorio en classroom en la entrega de la tarea.
+
 ⌨️ con ❤️ por [roxsross](https://github.com/roxsross) 😊
 
 No olvides revisar mi blog [roxsross](https://blog.295devops.com) 😊
