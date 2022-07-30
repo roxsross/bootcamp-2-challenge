@@ -18,7 +18,7 @@
 | archiv4            | -rwxrw-r-- | **```$ chmod u=rwx,g=rw,o=r archiv4```**|
 | archiv5            | -rwxr----- | **```$ chmod u=rwx,g=r,o= archiv5```**|
 | archiv6            | -r-xrw-r-- | **```$ chmod u=rx,g=rw,o=r archiv6```**|
-| archiv7            | -r-------x | **```$ chmod u=r,g=,u=x archiv7```**|
+| archiv7            | -r-------x | **```$ chmod u=r,g=,o=x archiv7```**|
 | archiv8            | -rw-r--r-- | **```$ chmod u=rw,g=r,o=r archiv8```**|
 | archiv9            | -rw-rw-r-- | **```$ chmod u=rw,g=rw,o=r archiv9```**|
 
