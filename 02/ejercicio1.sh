@@ -25,3 +25,14 @@ chmod u=rx,g=rw,o=r directorio/archivo6.txt
 chmod u=r,g=,o=x directorio/archivo7.txt
 chmod u=rw,g=r,o=r directorio/archivo8.txt
 chmod u=rw,g=rw,o=r directorio/archivo9.txt
+
+#modificando permisos
+chmod o+r directorio/archivo1.txt
+chmod u-w directorio/archivo2.txt
+chmod a-x directorio/archivo3.txt
+chmod go-r directorio/archivo4.txt
+chmod g-r,o+wx directorio/archivo5.txt
+chmod u+w,o-r directorio/archivo6.txt
+chmod u+w,g+x,o-x,o+w directorio/archivo7.txt
+chmod u-rw,g-r directorio/archivo8.txt
+chmod u+rw,g+rw,o+r directorio/archivo9.txt
