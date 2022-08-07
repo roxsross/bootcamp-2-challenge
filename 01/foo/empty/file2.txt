@@ -1,1 +1,1 @@
-Me encanta bash!!
+prueba de contendido en file1.txt
