@@ -11,7 +11,7 @@ foo/
 ├─ empty/
 ```
 Donde file1.txt debe contener el siguiente texto:
-`Me encanta bash!!`
+
 Y file2.txt debe permanecer vacío.
 
 ## Ejercicio 2 - Manejo de contenido de archivos
@@ -30,9 +30,11 @@ Donde file1.txt y file2.txt deben contener el siguiente texto:
 
 ### Ejercicio 3 - Argumentos del script
 
-Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
+Crear un script de bash que agrupe los pasos de los ejercicios anteriores y 
+
+además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
 Si se le pasa un texto vacío al invocar el script, el texto de los ficheros, el texto por defecto será:
-`Que me gusta bash!!!!`
+`Que me gusta bash!!!!` << no supe COMO HACERLO>>
 
 ### Ejercicio 4 - Opcional
 

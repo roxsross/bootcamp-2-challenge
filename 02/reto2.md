@@ -12,7 +12,7 @@
    
 | Nombre del archivo | Permisos   | Comando                  |
 |:------------------:|------------|--------------------------|
-| archiv1            | -rwx------ | ` $chmod u=rwx,go= archiv1`|
+| archiv1            | -rwx------ | ` $`chmod u=rwx,go= archiv1
 | archiv2            | -rw------- | **```$ chmod u=rw,go= archiv2```**|
 | archiv3            | -rwxrwxrwx | `$ chmod a=rwx archiv3`    |
 | archiv4            | -rwxrw-r-- | **```$ chmod u=rwx,g=rw,o=r archiv4```**|
