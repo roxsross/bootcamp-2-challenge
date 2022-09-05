@@ -6,7 +6,7 @@ mv file2.txt foo/empty
 cd foo/empty/file2.txt
 paste file1.txt  file2.txt
 cat file1.txt > file2.txt 
-   
+{ 
 FICHERO=/foo/empty/file1.txt
 
 if [ -s "$FICHERO" ]
@@ -22,6 +22,7 @@ echo "Que me gusta bash" > $FICHERO
 
 fi
 
+}
 
 
 
